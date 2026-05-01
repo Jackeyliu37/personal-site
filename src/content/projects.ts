@@ -523,7 +523,6 @@ export const projects: Project[] = [
     referenceDocs: [
       { label: "任务主代码 main_mission.py", href: "/references/iros/main_mission.py" },
       { label: "赛项竞赛文档 PDF", href: "/references/iros/competition-rules.pdf" },
-      { label: "报名表", href: "/references/iros/application.txt" },
       { label: "参会证明", href: "/references/iros/attendance.txt" },
     ],
     repoUrl: "https://github.com/nianxuliu?tab=repositories",
